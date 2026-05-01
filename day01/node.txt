@@ -1,0 +1,14 @@
+Java vs JavaScript 
+
+Java Software deplovement
+
+JavaScript ---> cross -> web -> backend , frontend
+
+backend -> database -> 
+frontend -> html , css
+mobile app -> react native
+desktop -> 
+
+math
+
+let x = 10
