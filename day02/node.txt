@@ -1,0 +1,75 @@
+Operators
+
+Arithmetic Operators: +, -, *, /, %
+
+Assignment Operators: =, +=, -=
+
+Comparison Operators: ==, ===, !=, <, >, >=, <=
+
+Logical Operators: && (AND), || (OR), ! (NOT)။
+
+Conditionals (If-Else)  / Pseudo Code
+
+Conditional Statements
+
+ဒီနေ့မိုးရွာလာ?
+မိုး = true or false
+
+if မိုး = true 
+    ထီးယူသွားမယ်
+if မိုး = false
+    ထီးမယူသွားဘူး
+
+မျက်လုံးဖွင့် ---> start
+
+rain = true
+
+if(rain) {
+    take an unbrella
+} else {
+    not
+}
+
+မနက်ထ
+
+မျက်လုံးဖွင့် 
+    သွားတိုက်
+      ရေချိုး
+        ထမင်းစား
+          ဘာညာ
+
+အသက်က ၁၈ ထက်ကြီးရင်ကြီး မကြီးရင် ညီ 
+    ခွင့်ပြုမယ်
+မဟုတ်ဘူး
+    ခွင့်မပြုဘူး
+
+if (isMarriedWithMaMa) , if (isMarriedWithMaMa === ture)
+
+else if ()
+
+
+if (80) {
+ ဂန်ထူး 
+} else if (၄၀) {
+    အောင်
+} else {
+    ကျ
+}
+
+myanmr, englis, math 40 , 80, 39
+
+if ( myanmr >= 80 || englis >= 80 || math >= 80) {
+
+} else if (myanmr >= 40 || englis >= 40 || math >= 40) {
+
+} else {
+
+}
+
+
+|| or တခု မဟုတ်ဘူး pass 
+&& အားလုံး 40 pass
+
+အောင် တာကို စစ်မယ်
+ဂုဏ်ထူး တာကို စစ်မယ်
+ကျ တာကို စစ်မယ်
