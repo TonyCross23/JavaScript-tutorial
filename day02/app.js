@@ -68,14 +68,14 @@ let myanmar = 80
 let english = 50
 let math = 60
 
-if ( myanmar >= 40 && english >= 40 && math >= 40) {
-    console.log("Pass");
-} else if ( english >= 80) {
+if ( english >= 80) {
     console.log("English is A");
 } else if(math >= 80) {
     console.log("Math is A");
 } else if ( myanmar >= 80) {
     console.log("Myanmar is A");
-} else {
+} else if ( myanmar >= 40 && english >= 40 && math >= 40) {
+    console.log("Pass");
+}   else {
     console.log("Fail");
 }
