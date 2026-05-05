@@ -1,0 +1,17 @@
+Befor add next one [ 'Mg Mg', 'Ma Ma', 'Aung Aung' ]  --> default
+after pushed [ 'Mg Mg', 'Ma Ma', 'Aung Aung', 'Hla Hla' ] ---> add on
+after deleted result [ 'Mg Mg', 'Ma Ma', 'Aung Aung' ] --> delete 
+
+looping
+
+loop ---> ပတ်တာ
+
+let i = 5;
+
+for (5; 5 < 5; i++) {
+
+}
+
+for (9; 9 <= 10; x++) {
+    console.log(x);
+}
