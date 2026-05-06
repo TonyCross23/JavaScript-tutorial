@@ -1,30 +1,34 @@
-let myArray = ["Mg Mg", "Ma Ma", "Aung Aung"]
+// let myArray = ["Mg Mg", "Ma Ma", "Aung Aung"]
 
-// console.log("Befor add next one",myArray);
+// // console.log("Befor add next one",myArray);
 
-// myArray.push("Hla Hla")
+// // myArray.push("Hla Hla")
 
-// console.log("after pushed", myArray);
+// // console.log("after pushed", myArray);
 
-// myArray.pop()
+// // myArray.pop()
 
-// console.log("after deleted result", myArray);
+// // console.log("after deleted result", myArray);
 
-// myArray.shift()
+// // myArray.shift()
 
-// console.log(myArray);
+// // console.log(myArray);
 
-// myArray.unshift("U Ba")
+// // myArray.unshift("U Ba")
 
-// console.log(myArray);
+// // console.log(myArray);
 
 
-// for( let i = 0 ; i < 5; i++) {
-//     console.log(i);
+// // for( let i = 0 ; i < 5; i++) {
+// //     console.log(i);
+// // }
+
+// let x = 0
+
+// for (x; x < 10; x++) {
+//     console.log(x + "." + "Chee Par chin tal");
 // }
 
-let x = 0
-
-for (x; x < 10; x++) {
-    console.log(x + "." + "Chee Par chin tal");
+for (let i = 0; i < 5; i++) {
+  console.log(i); 
 }

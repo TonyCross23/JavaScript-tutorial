@@ -1,0 +1,25 @@
+loop 
+
+for 
+while
+
+while () {
+  ++;
+}
+
+do while 
+
+do {
+  ++;
+} while ();
+
+for...of loop
+
+for (let  of ) {
+}
+
+for...in loop
+
+for (let  in ) {
+  console.log(, []);
+}
