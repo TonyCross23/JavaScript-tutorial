@@ -1,0 +1,48 @@
+function
+
+function name() {
+
+}
+
+
+[
+  { name: 'Mg Mg', email: 'mgmg@gmail.com', age: 20 },
+  { name: 'Ma Ma', email: 'mama@gmail.com', age: 30 },
+  { name: 'Moe Moe', email: 'moemoe@gmail.com', age: 28 },
+  { name: 'Min Min', email: 'minmin@gmail.com', age: 25 }
+]
+
+for let of loop
+
+{ name: 'Mg Mg', email: 'mgmg@gmail.com', age: 20 }
+{ name: 'Ma Ma', email: 'mama@gmail.com', age: 30 }
+{ name: 'Moe Moe', email: 'moemoe@gmail.com', age: 28 }
+{ name: 'Min Min', email: 'minmin@gmail.com', age: 25 }
+
+array obj
+
+const user_list = [
+    {
+        id : "",
+        name: "",
+        email: "",
+        age: ,
+        family: {
+            fater_name: "",
+            mon_name: "",
+            pet: {
+              dog_name: "Aung Black",
+              cat_name: "Shwe Wa"
+            }
+        },
+    },
+    {
+
+    },
+    {
+
+    }, 
+    {
+
+    }
+]
