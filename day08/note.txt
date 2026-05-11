@@ -1,0 +1,10 @@
+DOM(Document Object model)
+
+html --> Document
+
+http://127.0.0.1:5500/day08/index.html (URL)
+
+127.0.0.1 -> domain www.facebook.com
+5500 --> PORT 
+
+user.name
