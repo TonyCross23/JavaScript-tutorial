@@ -1,0 +1,13 @@
+score = 10
+
+score <= 0 disable
+
+true , false ---> boolean
+
+input ----> type ----> Number, string
+
+input ---> check --> type 
+
+အဖြေ ---> ခက်မှန်းလိုက်တဲ့ ငယ် - ကြီး
+
+မှားလားမှန်လား 

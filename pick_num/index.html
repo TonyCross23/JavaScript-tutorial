@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Guess the number</title>
+    <link rel='stylesheet' href='./style.css'>
+</head>
+<body>
+    <div class="container" id="container">
+        <!-- header -->
+        <div class="header">
+            <h1>Pick number 1 to 50</h1>
+            <p class="score" id="score"></p>
+        </div>
+        <!-- input -->
+         <form>
+            <input type="text" placeholder="Enter guess number" id="input">
+            <span class="error" id="error"></span>
+            <button class="btn" id="btn">Guess</button>
+         </form>
+
+         <div class="text">
+            <h2 id="result"></h2>
+            <h3 id="arr"></h3>
+         </div>
+         <div class="footer">
+            <button class="result" id="reset">Reset</button>
+         </div>
+    </div>
+</body>
+<script src="./app.js"></script>
+</html>

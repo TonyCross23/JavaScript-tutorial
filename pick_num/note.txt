@@ -1,0 +1,8 @@
+syntax, semantics, Pragmatics
+
+syntax (grammer or ရေးပုံရေးနည်း)
+
+semantics (အဓိပ္ပာယ်)
+
+Pragmatics (လက်တွေ့အသုံးချမှု)
+

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Guess the number</title>
+    <link rel='stylesheet' href='./style.css'>
+</head>
+<body>
+    <div class="container">
+        <!-- header -->
+        <div class="header">
+            <h1>နံပတ် ၁ - ၅၀ အတွင်းတခုရွေးပေးပါ</h1>
+            <span class="score" id="score"></span>
+        </div>
+        <!-- input -->
+         <form>
+            <input type="text" placeholder="နံပတ်တခုကိုရွေးချယ်ပါ" id="input"/>
+            <span class="error" id="error"></span>
+            <button class="btn" id="btn">Guess</button>
+         </form>
+
+         <!-- result -->
+          <div class="result">
+            <h2 id="result"></h2>
+            <h3>ခက်မှန်းထားသေား နံပတ်များ :</h3>
+          </div>
+
+          <!-- reset -->
+           <div class="footer">
+            <button class="reset">Reset</button>
+           </div>
+    </div>
+</body>
+<script src="./app.js"></script>
+</html>
